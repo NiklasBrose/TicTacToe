@@ -9,8 +9,6 @@ Ein einfaches TicTacToe-Spiel mit einer grafischen Benutzeroberfläche (GUI), da
 4. [Installation](#installation)
 5. [Verwendung](#verwendung)
 6. [Spielanleitung](#spielanleitung)
-7. [Contributing](#contributing)
-8. [Lizenz](#lizenz)
 
 ## Über das Projekt
 
@@ -77,17 +75,3 @@ Wenn ein Spieler gewinnt, erscheint eine Nachricht, und das Spielfeld wird autom
 
 4. **Spiel zurücksetzen**:  
    Nach jeder Runde wird das Spielfeld automatisch zurückgesetzt, um eine neue Partie zu starten.
-
-## Contributing
-
-Beiträge zu diesem Projekt sind willkommen. Um Änderungen vorzunehmen:
-
-1. Forke das Repository.
-2. Erstelle einen neuen Branch (`git checkout -b feature/Neues-Feature`).
-3. Committe deine Änderungen (`git commit -m 'Beschreibung des Features'`).
-4. Pushe zum Branch (`git push origin feature/Neues-Feature`).
-5. Erstelle eine Pull-Request.
-
-## Lizenz
-
-Dieses Projekt steht unter der [MIT-Lizenz](LICENSE).
