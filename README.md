@@ -1,7 +1,3 @@
-Hier ist das angepasste README mit dem richtigen Repository-Namen:
-
----
-
 # TicTacToe
 
 Ein einfaches TicTacToe-Spiel mit einer grafischen Benutzeroberfläche (GUI), das in Java entwickelt wurde. Spiele gegen einen Freund auf demselben Computer und genieße die klassische Strategie von "Drei gewinnt"!
@@ -95,7 +91,3 @@ Beiträge zu diesem Projekt sind willkommen. Um Änderungen vorzunehmen:
 ## Lizenz
 
 Dieses Projekt steht unter der [MIT-Lizenz](LICENSE).
-
----
-
-Du kannst dieses README direkt in dein Repository `TicTacToe` auf GitHub einfügen.
